@@ -27,7 +27,7 @@ iP2.reject('World')
 
 ## API
 
-### `const ip = new InvertedPromise()`
+### `const ip = new InvertedPromise([resolver])`
 
 Create a new `InvertedPromise`
 
